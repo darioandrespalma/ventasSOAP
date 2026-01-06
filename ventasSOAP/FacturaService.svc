@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ventasSOAP.FacturaService" CodeBehind="FacturaService.svc.cs" %>

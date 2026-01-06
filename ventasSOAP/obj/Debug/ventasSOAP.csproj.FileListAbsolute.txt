@@ -1,0 +1,7 @@
+C:\Users\dario\source\repos\ventasSOAP\ventasSOAP\bin\ventasSOAP.dll.config
+C:\Users\dario\source\repos\ventasSOAP\ventasSOAP\bin\ventasSOAP.dll
+C:\Users\dario\source\repos\ventasSOAP\ventasSOAP\bin\ventasSOAP.pdb
+C:\Users\dario\source\repos\ventasSOAP\ventasSOAP\obj\Debug\ventasSOAP.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\ventasSOAP\ventasSOAP\obj\Debug\ventasSOAP.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\ventasSOAP\ventasSOAP\obj\Debug\ventasSOAP.dll
+C:\Users\dario\source\repos\ventasSOAP\ventasSOAP\obj\Debug\ventasSOAP.pdb
